@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @ken-jibril
-- 👀 I’m interested in writing code and improving my coding skills 
-- 🌱 I’m currently learning Front-End Development
-- 💞️ I’m looking to collaborate on a web develpment/application project 
-- 📫 How to reach me through my email (jibken80@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Ken Kagai 
+      Front-End Developer
+- 👀 I’m interested in writing code that builds up web applications and websites in a real-world tech organisation.
+- 🌱 I’m currently learning Front-End Development in the ALX Software Engineering program. 
+- 💞️ I’m looking to collaborate on a web develpment/application project(s)
+- 📫 How to reach me through my email
+       (jibken80@gmail.com)
+- ⚡ Fun fact: i'm passionate about building websites and web applications and fixing bugs.
 
-<!---
-ken-jibril/ken-jibril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🚀 Tech Stack
+    HTML5 CSS3 JavaScript.
+
+📫 Contact Me
+  Email: jibken80@gmail.com
+  LinkedIn: https://www.linkedin.com/in/kennedy-njoroge-35b84a366/
